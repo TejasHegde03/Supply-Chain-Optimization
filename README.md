@@ -5,6 +5,7 @@ This project analyzes supply chain data to optimize logistics and reduce late de
 
 ## Dataset
 The project uses the `DataCoSupplyChainDatasetRefined.csv` dataset, which contains order details, shipping data, customer information, and financial metrics.
+The dataset is available of kaggel [https://www.kaggle.com/datasets/aaumgupta/refined-dataco-supply-chain-geospatial-dataset] as its a big data set , i havent uploded it here.
 
 ## Key Analyses and Visualizations
 1. **Product Category Delays in a Specific Country**
